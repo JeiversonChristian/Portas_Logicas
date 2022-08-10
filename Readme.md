@@ -37,10 +37,10 @@ resultado da aplicação da operação lógica nas sequências S1 e S2.
 
 **Entrada:**
 O problema possui quatro linhas de entrada, sendo:
-Linha 1: o tamanho N da sequência (máximo de 1000)
-Linha 2: a sequência de bits S1
-Linha 3: a sequência de bits S2
-Linha 4: uma expressão lógica que envolva as sequências S1 e S2 e até duas operações
+* Linha 1: o tamanho N da sequência (máximo de 1000)
+* Linha 2: a sequência de bits S1 
+* Linha 3: a sequência de bits S2
+* Linha 4: uma expressão lógica que envolva as sequências S1 e S2 e até duas operações
 da lista (AND, OR, XOR, NAND, NOR ou MOR). A prioridade dos operadores deve ser
 pela ordem na expressão. Não será utilizado parênteses para mudar a ordem.
 
@@ -53,3 +53,13 @@ ERRO como saída. Caso algum símbolo das sequências S1 ou S2 seja diferente de
 1, deve ser gerado ERRO como saída.
 
 ____________________________________________________________________________________________________________________
+
+
+**Exemplos de entrada/saída:**
+
+| **Entrada** | **Saída** |
+|-------------|-----------|
+|4         
+1111 
+1111
+S1 AND S2     | 1111      |
