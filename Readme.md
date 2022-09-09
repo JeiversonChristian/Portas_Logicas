@@ -4,7 +4,7 @@
 ____________________________________________________________________________________________________________________
 
 
-Trabalho prático da disciplina "Matemática Discreta" do curso de Ciência da Computação da UFV - Universidade Federal de Minas Gerais - Campus Florestal.
+Trabalho prático da disciplina "Matemática Discreta" do curso de Ciência da Computação da UFV - Universidade Federal de Viçosa - Campus Florestal.
 
 Informações são armazenadas nos computadores por meio de bits, 
 símbolos com dois valores possíveis, 0 (zero) ou 1 (um). Um bit pode ser usado para
